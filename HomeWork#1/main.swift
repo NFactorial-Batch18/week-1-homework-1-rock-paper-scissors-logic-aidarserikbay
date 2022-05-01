@@ -47,4 +47,7 @@ func result() {
     }
 }
 
-result() // I would appreciate any feedback, comments
+result() 
+
+// Struggling with swift syntax, hope it'll get better
+// I would appreciate any feedback, comments
